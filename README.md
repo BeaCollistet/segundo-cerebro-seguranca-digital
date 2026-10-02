@@ -42,4 +42,4 @@
 
 ## 6. Link do notebook compartilhado
 
-[PREENCHER: link do notebook]
+https://notebook.google.com/notebook/7e6cae53-da4e-4384-b7f0-6acf62cc7884
