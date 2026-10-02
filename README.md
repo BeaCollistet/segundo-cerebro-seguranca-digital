@@ -36,9 +36,15 @@
 
 ## 5. Materiais gerados no Estúdio
 
-- Mapa mental: `mapa-mental.png`
-- Slides: `slides.pdf`
+**Materiais do Estúdio**
+- Mapa mental: `NotebookLM Mind Map (1).png`
+- Slides: `slides.pdf.pdf`
 
+**Prints do chat com as citações**
+- Pergunta 1 (phishing): `print-pergunta-1.png`
+- Pergunta 2 (autenticação em dois fatores): `print-pergunta-2.png`
+- Pergunta 3 (melhor antivírus pago): `print-pergunta-3.png`
+- Pergunta 4 (o que fazer após um golpe): `print-pergunta-4.png`
 ## 6. Link do notebook compartilhado
 
 https://notebook.google.com/notebook/7e6cae53-da4e-4384-b7f0-6acf62cc7884
